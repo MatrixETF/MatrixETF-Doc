@@ -59,6 +59,51 @@ const sidebars = {
     },
 
     {
+          type: 'category',
+          label: 'Matrixetf Index',
+          link: {
+            type: 'doc',
+            id: 'Matrixetf Index/README',
+          },
+          items: [
+            'Matrixetf Index/matrixetf-index-methodology',
+            'Matrixetf Index/matrix-defi-index-set-mdi',
+            'Matrixetf Index/matrix-solana-index-msi',
+            'Matrixetf Index/untitled-2',
+          ],
+        },
+
+    {
+      type: 'category',
+      label: 'Token Economy',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'Token Economy/untitled',
+        'Token Economy/mdf-allocation',
+        'Token Economy/matrix-index',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Community Governance',
+      link: {
+        type: 'generated-index',
+      },
+      collapsed: false,
+      items: [
+        'Community Governance/untitled',
+        'Community Governance/mdf-governance',
+        'Community Governance/snapshot',
+      ],
+    },
+
+    'Article Collection',
+
+    {
       type: 'category',
       label: 'Community Ecology',
       link: {
@@ -85,6 +130,11 @@ const sidebars = {
         'Community Ecology/Investors & Partner',
       ],
     },
+
+    'untitled',
+
+    'Risks',
+
   ],
 };
 

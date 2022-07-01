@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[699],{3002:t=>{t.exports=JSON.parse('{"title":"What Is MatrixETF","slug":"/category/what-is-matrixetf","permalink":"/category/what-is-matrixetf","navigation":{"previous":{"title":"Introduction","permalink":"/"},"next":{"title":"Introduction","permalink":"/What Is MatrixETF/Introduction"}}}')}}]);
